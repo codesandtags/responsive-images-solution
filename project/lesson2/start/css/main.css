@@ -12,18 +12,45 @@ I've left some boilerplate below for you.
 
 */
 
-body {
+@import url(http://weloveiconfonts.com/api/?family=zocial);
 
+/* zocial */
+[class*="zocial-"]:before {
+    font-family: 'zocial', sans-serif;
+}
+
+
+body {
+    font-family: 'Fugaz One', cursive;
 }
 
 article {
-
+    width:50em;
+    margin: auto;
 }
 
 h1 {
-
+    text-align: center;
 }
 
 img {
+    max-width: 100%;
+}
 
+footer {
+    text-align: center;
+}
+
+footer ul {
+    list-style-type: none;
+}
+
+footer ul li{
+    margin: 40px 0;
+    display: inline;
+}
+
+footer ul li a{
+    text-decoration: none;
+    color: darkred;
 }
