@@ -14,3 +14,6 @@ Code for these examples is available from the repo's [examples directory](https:
 
 View examples live at [udacity.github.io/responsive-images](http://udacity.github.io/responsive-images/). (This is the [GitHub Pages](https://pages.github.com) site that corresponds to the gh-pages branch of the repo.)
 
+##Comments##
+
+This is my own solution of the course in order to put in practice the knowledge acquired.
